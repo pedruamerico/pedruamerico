@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Pedro Américo, sou apaixonado por tecnologia e desenvolvimento de software fullstack. Atualmente, curso Sistemas de Informação e trabalho com automação de processos, desenvolvimento web e infraestrutura. Tenho experiência em Python, Java, React e Tailwind. Além de trabalhar com CI/CD, Git e Kubernetes. Estou sempre buscando aprender e aprimorar minhas habilidades, explorando novas tecnologias para criar soluções eficientes e escaláveis. Sinta-se à vontade para explorar meus projetos!"
+Olá! Me chamo Pedro Américo, sou apaixonado por tecnologia e desenvolvimento de software fullstack. Atualmente, curso Sistemas de Informação e trabalho com automação de processos, desenvolvimento web e infraestrutura. Tenho experiência em Python, Java, React e Tailwind. Além de trabalhar com CI/CD, Git e Kubernetes. Estou sempre buscando aprender e aprimorar minhas habilidades, explorando novas tecnologias para criar soluções eficientes e escaláveis. Sinta-se à vontade para explorar meus projetos!
 
 ---
 
